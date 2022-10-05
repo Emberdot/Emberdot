@@ -7,7 +7,7 @@
 * 💜 Glad that you are visiting
 
 **Professional Experience:**
-> * [DBS Software & Services](https://www.dbsgroup.net/):
+> * [dbs Software & Services](https://www.dbsgroup.net/):
 > * **Period:** February 2022 – Present
 
 > * [FIEB - (IEL Bahia)](https://ielbahia.com.br/):
