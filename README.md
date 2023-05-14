@@ -2,7 +2,7 @@
 
 **My name is Michel Silveira. I am:**
 * 🎓 A graduated software engineer
-* 🎂 21 Years Old
+* 🎂 22 Years Old
 * 🏡 From Brazil
 * 💜 Glad that you are visiting
 
