@@ -10,7 +10,7 @@
 > * [dbs Software & Services](https://www.dbsgroup.net/):
 > * **Period:** February 2022 – Present
 
-> * [FIEB - (IEL Bahia)](https://ielbahia.com.br/):
+> * [FIEB - (IEL Bahia)](https://www.ielbahia.com.br/):
 > * **Activities:**
 > * Participated in the development of six distinct full-stack web projects within the enterprise, aimed at recruiting and selecting candidates for job vacancies, internships, apprenticeships, as well as managing contracts and financial processes (CRM/ERP). This work involved utilizing C# (ASP.NET MVC, Entity Framework & Blazor), JavaScript (ES6, jQuery & AJAX), and Bootstrap 4;
 > * Managed test and production databases on Microsoft SQL Server, worked on schema designs, reports, triggers and stored routines, as well as performed updates, inserts and deletes when necessary using T-SQL;
