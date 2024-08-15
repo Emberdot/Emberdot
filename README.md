@@ -1,7 +1,8 @@
 ### Hi 🙂
 
 **My name is Michel Silveira. I am:**
-* 🎓 A graduated software engineer
+* 🎓 A bachelor's graduate in Software Engineering
+* 📖 A master's student in Data Science and Engineering
 * 🎂 23 Years Old
 * 🏡 From Brazil
 * 💜 Glad that you are visiting
